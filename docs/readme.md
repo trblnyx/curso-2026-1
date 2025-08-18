@@ -266,7 +266,3 @@ Si algo no te funciona, pues… suerte. 🤷‍♂️
 
 
 
-```
-
-
-
