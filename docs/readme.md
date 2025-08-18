@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 
 ```python
 
-\# CSV
+# CSV
 
 df = pd.read\_csv("archivo.csv")
 
