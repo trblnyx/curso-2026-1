@@ -7,5 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
     "notebook>=7.4.5",
+<<<<<<< HEAD
     "pandas>=2.3.1",
+=======
+>>>>>>> bb359aad1138c8fe80e540650d5e944afc1a93be
 ]
